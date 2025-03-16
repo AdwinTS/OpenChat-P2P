@@ -15,7 +15,7 @@ ChatBox is a simple peer-to-peer chat application built using React and PeerJS. 
 
 1. Clone the repository:
    ```sh
-   git clone (https://github.com/sjalex13/OpenChat-P2P.git)
+   git clone [https://github.com/sjalex13/OpenChat-P2P.git]
    cd chatbox
    ```
 2. Install dependencies:
