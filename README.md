@@ -58,6 +58,5 @@ ChatBox is a simple peer-to-peer chat application built using React and PeerJS. 
 This project is licensed under the MIT License.
 
 ---
-**Contributors:**
-- Your Name (@your-github-handle)
+
 
